@@ -9,18 +9,30 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@riskand
 
 # References
 
-@ref1
+@kempWhyAreOnly2018
 
-- Summary
+-   This article discusses the reasons behind why shared parental leave is not taken up and ways to improve it. The current environment for SPL is unlikely for partners to take because it comes at the cost of time the mother is able to have. This leaves a scenario where partners feel guilty for taking time away as well as mothers not wanting to give up time.
 
-- Reliability and relationship to the topic
+-   The author of this article Rob Kemp is a freelance health, fitness and men's lifestyle writer; because of this he is encouraged to talk about topics such as this. There may be a possible bias due to him writing directly impacts his career. This article has a relationship with the topic because it discusses communication and expressing chances, the article on 'Risk and Uncertainty Communication' states that this article uses all men not just those eligible for paternity leave, which inflates the impact revealing that there was likely a bias in writing this article.
 
-- Missing pieces
-    - thing 1
+-   Missing pieces
 
-    - thing 2
+    -   What is the probability of men that are eligible for paternity leave that don't take it rather than all men.
+
+    -   What are the characteristics for the 55% of the women who didn't want to share leave and those who wanted to take less maternity leave for reasons. Were there factors that scews the percentages?
+
+@zikmund-fisherContinuedUse1inX2014
+
+-   This article brings up the idea that using risk statistics as 1-in-X format is inefficient and a poor way to communicate data. The article argues that it would be more beneficial to use precentages or frequencies with larger fixed denominator in some cases. It later states that this conversation is needed not because lack of evidence of using 1-in-x it is because it is the dominant option. 
+
+-   The author of the article Profssor of Health Behavior & Health Equity at the University of Michigan Chool of Public Health, so he does have a direct connection to the article. The article seems to argue that it would be more efficient to use different forms of communicating rather than just sticking to one, which does not imply bias. In relationship to 'Risk and Uncertainty Communication' it speaks on the main idea and says that there are some articles that say that it shows to make little impact.
+
+-   Missing pieces
+
+    -   The article does not have any stating of data, so it is less effective than the articles refrences.
+
+    -   At the beginning of the article it speaks as though using a 1-in-X format is bad because of it can influence patients understanding, but by the end it states that it is bad because it is the dominated option and is not always seen as such. It would be important to see a more concrete reason.
