@@ -1,0 +1,147 @@
+---
+title: "article-outline"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## - Background {.underline}
+
+-   Gives background on the phrase "risk communication"
+-   Stresses on the flaws of communicating risk to nonspecialist
+    audiences.
+
+## - What Is Risk? {.underline}
+
+-   Defines risk and speaks on nuances relating to it.
+
+## - What Is Uncertainty? {.underline}
+
+-   Talks of uncertainty is viewed in different field backgrounds.
+-   Says that people provide point estimates of risks.
+
+## - What is Good Communication? {.underline}
+
+-   Speaks on how communication affects outcomes.
+-   Explains why communcating can be difficult.
+
+## - Structure of This Review {.underline}
+
+-   Explains the structure of the article.
+-   Gives additional resources outside of the review.
+
+## - Communicating Probabilities of Events {.underline}
+
+-   Speaks on systematic reviews that has information relating to how
+    outcomes originate from different factors.
+
+## - Positive and Negative Framing {.underline}
+
+-   Compares on how people view factors based on if they are negative or
+    positive results.
+
+## - Ways of Expressing Chances {.underline}
+
+-   Compares on how whether people respond better to frequency or
+    percentages.
+
+## - Chances as Fractions {.underline}
+
+-   Compares frequencies and peoples reactions to such.
+
+## - Comparative Risks {.underline}
+
+-   Argues that using a 1 in X format is ineffective, shows that it is
+    easier to misunderstand its meaning.
+
+## - Graphics {.underline}
+
+-   Discusses the pros and cons of using graphics.
+
+## - Using Words {.underline}
+
+-   Discusses the view on using just words and the cons associated with
+    it.
+
+## - Communicating Chronic Risks {.underline}
+
+-   Lists how people communicate chronic risks of adverse events.
+
+## - Communicating Small Risks and Using Comparators {.underline}
+
+-   Explains that people struggle distinguishing difference between high
+    value denominators.
+
+## - Communicating Uncertainty About Numerical Risks {.underline}
+
+-   Lists the hierarchy of levels of precision.
+
+## - Communicating Confidence in the Analytical Process {.underline}
+
+-Explains how to communicate confidence
+
+## - Brief Case Studies {.underline}
+
+### - Gambling
+- Is communicated as a numerical probability of *p*
+
+### - Fractional odds o.
+- Is communicated as for 2/1 the punter will get back both the 2 and the 1 they put in.
+
+### - Moneyline odds m.
+- Is communicated as m when m is negative it is the number putting in while positive means the number getting back.
+
+### - Decimal odds d.
+- Is communicated as the total (stake and 1 (as a sucessful bet))
+
+## - Communicating the Potential Benefits and Harms of Pharmaceuticals {.underline}
+- Discusses how tables improve outcomes.
+
+## - Climate Change {.underline}
+- Discusses how people are more likely to misinterpret depending on whether a table is available by a link or not
+
+## - Toxicology and Environmental Exposures{.underline}
+- Speaks that the public are not informed by people in fields relating to pesticidies, food additives, and other environmental exposures.
+
+## - Security and Intelligence {.underline}
+- Brings up that in terms of security typically it is framed as likely, but not certain.
+
+## - Reliability
+- Explains level-3 probability and its relation to standard deviations.
+
+## - Weather
+- Explains how the United Kingdom provides precipitation probability
+- States weather forecast risk is often misunderstood
+
+## - Natural Hazards
+
+### - Hurricanes
+- Explains that Hurricanes risk is not only communicated with potency of the hurricane, but also the path. 
+
+### - Floods
+- Speaks that floods uses the return period, in which, it shows that it creates more uncertainty than the chance per year.
+
+### - Earthquakes and Volcanoes
+- Shows how misinterpretation of low-probability, high-impact events can affect lives.
+
+## - Major Societal Risks and National, Global and Existential Catastrophes {.underline}
+- Summarizes the section "Natural Hazards" and its subsections.
+
+## - Major Industrial Accidents {.underline}
+- Compares how risk is meant to be seen through technical and general audiences.
+- Explains F-N plots and explains the use of them.
+
+## - National Risks {.underline}
+- Discusses how national risks are assessed
+- Speaks on how national risks are more likely to be classified
+
+## - Global Risks {.underline}
+- Speaks on the World Economic Forum and their annual report.
+
+## - Global Catastrophes and Existential Risks {.underline}
+- Explains what a Global Catastrophy is according to the *Annual Report on Global Risks* 
+- Lists possible global catastrophic risks
+
+## - Conclusions {.underline}
+- Lists their points.
