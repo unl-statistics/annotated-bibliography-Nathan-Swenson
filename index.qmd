@@ -9,7 +9,7 @@ citations-hover: false
 
 # Annual Review Article
 
-@riskand
+@spiegelhalter2017
 
 # References
 
@@ -27,7 +27,7 @@ citations-hover: false
 
 @zikmund-fisherContinuedUse1inX2014
 
--   This article brings up the idea that using risk statistics as 1-in-X format is inefficient and a poor way to communicate data. The article argues that it would be more beneficial to use precentages or frequencies with larger fixed denominator in some cases. It later states that this conversation is needed not because lack of evidence of using 1-in-x it is because it is the dominant option. 
+-   This article brings up the idea that using risk statistics as 1-in-X format is inefficient and a poor way to communicate data. The article argues that it would be more beneficial to use precentages or frequencies with larger fixed denominator in some cases. It later states that this conversation is needed not because lack of evidence of using 1-in-x it is because it is the dominant option.
 
 -   The author of the article Profssor of Health Behavior & Health Equity at the University of Michigan Chool of Public Health, so he does have a direct connection to the article. The article seems to argue that it would be more efficient to use different forms of communicating rather than just sticking to one, which does not imply bias. In relationship to 'Risk and Uncertainty Communication' it speaks on the main idea and says that there are some articles that say that it shows to make little impact.
 
