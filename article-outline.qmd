@@ -9,8 +9,7 @@ editor:
 ## - Background {.underline}
 
 -   Gives background on the phrase "risk communication"
--   Stresses on the flaws of communicating risk to nonspecialist
-    audiences.
+-   Stresses on the flaws of communicating risk to nonspecialist audiences.
 
 ## - What Is Risk? {.underline}
 

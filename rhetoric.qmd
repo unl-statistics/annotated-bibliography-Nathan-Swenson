@@ -1,0 +1,13 @@
+---
+title: "Rhetoric Response"
+format: html
+bibliography: references.bib
+---
+
+  One of the article’s main arguments was how risk communication is often meant for technical specialists, meaning it leaves the general public, leading to higher likelihood of misunderstanding the risk. To convey this message, the article discussed how common ways of communicating risk had been perceived. This method has shown to be quite effective in multiple examples.  
+
+  One of the more effective supporting pieces of information was discussing how using words such as common, unlikely, or high risk was often misunderstood. In a randomized study of 120 patients, it had revealed that they thought the word “common” was 34%, but from a technical view they would expect it to be between 1% to 10% (Knapp et al. 2016). The article had also written about a survey, in which respondents had selected the biggest risk of getting a disease while being given 3 choices (1 in 10, 1 in 100, and 1 in 1,000) . The results from the survey had revealed that 1000 respondents in the United States and Germany had answered correctly only 72% and 75% respectively. Another main argument from the article was that people’s beliefs had also influenced how they had perceived risk. 
+
+  To convey this message, the article provided instances where the beliefs had influenced how individuals would have perceived risk. A correlation between political opinion and beliefs in the risk relating to common political topics was found. It was also discussed how people had viewed the term return period versus percentage chance per year. It was found that percentage chances had an overall more positive reaction. This is most likely because percent chance is framed as could happen but return period frames as it will happen. These examples were effective ways to display the effect that beliefs have on risk perception, but I think it would have been more effective to give actual numerical comparisons to communicate the extremities of the results. For example, when they discuss framing in negative or positive ways, it gives more framing to understand how comparative it was. The article had discussed a randomized experiment that was framing the medication side effects as the chance to get the negative side was scored a 1.82 (on a 1 to 5 scale), but the chance not to get it had given a 1.43. The numerical comparisons gave a better picture of how impactful each framing was.  
+
+@spiegelhalter2017
